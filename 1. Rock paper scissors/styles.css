@@ -20,10 +20,15 @@ h1 {
     margin: 10px;
     border-radius: 50%;
     margin-bottom: 30px;
+    background-color: #ff5733; 
+}
+
+.player-choice button:hover {
+    background-color: #ff833a; 
 }
 
 button {
-    background-color: #007bff;
+    background-color: #007bff; 
     color: white;
     border: none;
     padding: 10px 20px;
@@ -34,7 +39,7 @@ button {
 }
 
 button:hover {
-    background-color: #0056b3;
+    background-color: #0056b3; 
 }
 
 .result p {
@@ -45,4 +50,3 @@ button:hover {
 .hidden {
     display: none;
 }
-
