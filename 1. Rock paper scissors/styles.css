@@ -18,6 +18,8 @@ h1 {
 .player-choice button {
     font-size: 40px;
     margin: 10px;
+    border-radius: 50%;
+    margin-bottom: 30px;
 }
 
 button {
@@ -27,6 +29,8 @@ button {
     padding: 10px 20px;
     font-size: 16px;
     cursor: pointer;
+    border-radius: 3px;
+    margin-bottom: 30px;
 }
 
 button:hover {
@@ -41,3 +45,4 @@ button:hover {
 .hidden {
     display: none;
 }
+
