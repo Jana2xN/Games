@@ -17,7 +17,7 @@ input[type="number"] {
 }
 
 button {
-    background-color: #4dc9a1;
+    background-color: #007bff;
     color: white;
     border: none;
     padding: 10px 20px;
@@ -28,5 +28,5 @@ button {
 }
 
 button:hover {
-    background-color: #2a906f;
+    background-color: #0056b3;
 }
